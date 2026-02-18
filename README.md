@@ -1,16 +1,33 @@
-## Hi there 👋
+# I'm ZGr3Y 👋
 
-<!--
-**ZGr3Y/ZGr3Y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎓 MSc Student in Cybersecurity & Cloud
 
-Here are some ideas to get you started:
+I am currently pursuing my Master's degree, focusing on the theoretical and practical foundations of secure computing and cloud environments. I am building my technical stack and documenting my academic journey here on GitHub.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📚 Academic Path & Projects
+* **Core Subjects:** Network Security, Operating Systems, Cloud Fundamentals.
+* **Current Focus:** 🛠️ Developing a **Lightweight SIEM** using Java, Spring Boot, and RabbitMQ, implementing advanced Design Patterns for efficient log processing.
+* **Goal:** Bridging the gap between academic theory and high-performance security implementations.
+
+---
+
+### 💻 Technical Stack
+* **Languages:** C, C++, Java, Python, JavaScript, MySQL.
+* **Environment & Tools:** Debian, Arch Linux, Raspberry Pi OS, Node.js, Express, Git.
+* **Currently Learning:** Go, Kubernetes, AWS, eBPF.
+
+---
+
+### 📊 GitHub Stats
+![ZGr3Y's Stats](https://github-readme-stats.vercel.app/api?username=ZGr3Y&show_icons=true&theme=nord)
+
+---
+
+### 📫 Contact
+* **Email:** [paolo.scarlata2001ct@gmail.com](mailto:paolo.scarlata2001ct@gmail.com)
+
+
+---
+*"Obsession trumps talent."*
