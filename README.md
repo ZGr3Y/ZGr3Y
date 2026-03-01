@@ -1,4 +1,4 @@
-# I'm ZGr3Y 👋
+# I'm ZGr3Y 🇮🇹👋
 
 ## 🎓 MSc Student in Cybersecurity & Cloud
 
@@ -20,10 +20,6 @@ I am currently pursuing my Master's degree, focusing on the theoretical and prac
 
 ---
 
-### 📊 GitHub Stats
-![ZGr3Y's Stats](https://github-readme-stats.vercel.app/api?username=ZGr3Y&show_icons=true&theme=nord)
-
----
 
 ### 📫 Contact
 * **Email:** [paolo.scarlata2001ct@gmail.com](mailto:paolo.scarlata2001ct@gmail.com)
